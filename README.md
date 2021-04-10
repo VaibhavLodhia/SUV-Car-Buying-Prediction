@@ -1,0 +1,2 @@
+# SUV-Car-Buying-Prediction
+The problem statement is : A car company is going to launch a new SUV car , so the company wants to know which type of customers would buy this SUV. The dataset consists of three columns first is the AGE second is the estimated salary of that person and third column consists if the customer has bought SUV of this company previously or not.So if the customer has bought SUV from this company there are chances that they might like the new SUV and they buy it. Here Decision Tree Clasification is used .
